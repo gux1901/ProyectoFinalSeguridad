@@ -16,3 +16,6 @@
   * Utilizar sanitización antes de reflejar los textos
   * Asignar un permiso, de tal forma que no todos los usuarios puedan registrar mensajes
 ## Entregables Completos
+
+### Notas
+enmascaramiento, eas256 y hash
