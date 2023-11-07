@@ -1,21 +1,8 @@
 ﻿# ProyectoFinalSeguridad
-## Entregables Pendientes
-* Desarrolla una página de login, que requiera usuario y contraseña
-* Transmite el usuario y la contraseña utilizando AES256 Se deberán almacenar utilizando el hash SHA256
-* Desarrolla funciones que saniticen el usuario y la contraseña utilizando expresiones regulares.
-* Controla los siguientes escenarios
-  * Tiempo máximo de sesión
-  * Tiempo máximo de inactividad
-  * Permisos del usuario para los elementos que tendrá el sitio web (descritos a continuación)
-* Haz una página web tipo foro, donde los visitantes puedan registrar el título de su mensaje y el mensaje
-  * No deberá poder ser accedido si no hay una sesión activa
-  * Utiliza sanitización de las entradas
-* Asignar un permiso, de tal forma que no todos los usuarios puedan registrar mensajes
-* Siguiendo la página web tipo foro, haz una página o sección donde los usuarios puedan ver los mensajes que los demás dejaron
-  * No deberá poder ser accedido si no hay una sesión activa
-  * Utilizar sanitización antes de reflejar los textos
-  * Asignar un permiso, de tal forma que no todos los usuarios puedan registrar mensajes
-## Entregables Completos
-
-### Notas
-enmascaramiento, eas256 y hash
+## Entregables 
+[] Desarrolla una aplicación con el lenguaje de tu preferencia, donde le des la oportunidad al usuario de introducir cadenas de texto.
+[] Desarrolla una función para sanitizar el texto introducido por el usuario, permitiendo solo caracteres no maliciosos. Es sugerible utilizar expresiones regulares.
+[] Detecta números de tarjetas de crédito/débito en la cadena isanitizada y enmascáralos, permitiendo ver solo los últimos 4 números.
+[X] Desarrolla un a función para calcular el hash en SHA256 de la cadena sanitizada y enmascarada.
+[] Desarrolla una función para cifrar en AES256 la cadena sanitizada y enmascarada.
+[] Desarrolla una función para descifrar la cadena cifrada, utiliza la función para calcular el hash y confirma que la cadena descifrada siga resultando en el mismo hash.
