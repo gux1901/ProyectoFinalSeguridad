@@ -5,8 +5,6 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinalSeguridad", "ProyectoFinalSeguridad\ProyectoFinalSeguridad.csproj", "{73B16077-A3C5-4071-8FD3-90DB5F037287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogSeguridad", "BlogSeguridad\BlogSeguridad.csproj", "{0FF50F83-A44A-4E9A-AE89-D19188E346B5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
