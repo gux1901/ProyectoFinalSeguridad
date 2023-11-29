@@ -1,0 +1,10 @@
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\obj\Debug\InterfazSeguridad.csproj.AssemblyReference.cache
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\obj\Debug\InterfazSeguridad.Properties.Resources.resources
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\obj\Debug\InterfazSeguridad.ValidarTarjeta.resources
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\obj\Debug\InterfazSeguridad.csproj.GenerateResource.cache
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\obj\Debug\InterfazSeguridad.csproj.CoreCompileInputs.cache
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\bin\Debug\InterfazSeguridad.exe.config
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\bin\Debug\InterfazSeguridad.exe
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\bin\Debug\InterfazSeguridad.pdb
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\obj\Debug\InterfazSeguridad.exe
+C:\Users\galopez\source\repos\ProyectoFinalSeguridad\InterfazSeguridad\obj\Debug\InterfazSeguridad.pdb
