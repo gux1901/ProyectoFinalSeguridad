@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinalSeguridad", "ProyectoFinalSeguridad\ProyectoFinalSeguridad.csproj", "{91A02FE9-B6F8-41CD-8646-6FA3B8856167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazSeguridad", "InterfazSeguridad\InterfazSeguridad.csproj", "{2D931BB6-09CE-4A37-9D18-E5E2052CB7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A02FE9-B6F8-41CD-8646-6FA3B8856167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A02FE9-B6F8-41CD-8646-6FA3B8856167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A02FE9-B6F8-41CD-8646-6FA3B8856167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A02FE9-B6F8-41CD-8646-6FA3B8856167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D931BB6-09CE-4A37-9D18-E5E2052CB7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D931BB6-09CE-4A37-9D18-E5E2052CB7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D931BB6-09CE-4A37-9D18-E5E2052CB7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D931BB6-09CE-4A37-9D18-E5E2052CB7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CAA9CFE-632B-4452-84F9-7646B322DA35}
+	EndGlobalSection
+EndGlobal
